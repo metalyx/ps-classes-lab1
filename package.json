@@ -1,0 +1,15 @@
+{
+    "name": "ps-classes-lab-1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+        "start": "npx ts-node ./src/index.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^5.0.4"
+    }
+}
